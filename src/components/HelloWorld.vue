@@ -1,7 +1,7 @@
 <template>
   <div class="bg">
     <vgl-renderer class="maxed" antialias :alpha="true">
-      <vgl-scene background-texture="require('../assets/heaven2.jpeg')">
+      <vgl-scene>
         <vgl-sphere-geometry :width-segments="30" :height-segments="30"></vgl-sphere-geometry>
         <vgl-texture :src="require('../assets/earth.jpg')" center="0 0" name="texture"></vgl-texture>
         <vgl-mesh-standard-material map="texture"></vgl-mesh-standard-material>
