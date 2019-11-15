@@ -1,5 +1,5 @@
 # VueJS + VueGL Globe Demo
-
+![](https://s5.gifyu.com/images/ezgif.com-crope2161126fc9d94ca.gif)
 ### How to install and use
 - `git clone https://github.com/FabianAhammer/DiploEarth.git`
 - `cd DiploEarth`
