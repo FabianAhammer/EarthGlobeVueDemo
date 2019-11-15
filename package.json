@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "core-js": "^3.3.2",
-    "vue": "^2.6.10"
+    "three": "^0.110.0",
+    "vue": "^2.6.10",
+    "vue-gl": "^0.15.0",
+    "vuetify": "^2.1.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.0.0",
