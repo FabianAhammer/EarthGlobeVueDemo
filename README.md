@@ -6,8 +6,6 @@
 - `npm i`
 - `npm run serve`
 
-### Public Demo
-https://fabianahammer.github.io/
 
 ### How does it work?
 Starting off create a new Vue Project, basic options are enough for it to work.
